@@ -1,0 +1,45 @@
+
+
+.generalForm {
+
+    color: grey;
+    
+
+}
+
+.generalForm h1 {
+    text-align: center;
+    font-size: 70px;
+}
+
+.subForm{
+
+    background-color: antiquewhite;
+    padding: 10px;
+    color: black;
+    margin-bottom: 20px;
+}
+
+.subForm h1 {
+    text-align: left;
+    font-size: 20px;
+    
+}
+
+
+.column {
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+}
+
+.row {
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+}
+
+.done {
+    color: burlywood;
+    font-size: xx-large;
+}
